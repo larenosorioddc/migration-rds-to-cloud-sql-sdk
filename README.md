@@ -2,7 +2,7 @@
 gcloud command-line tool to interact with Database Migration Service by Cloud SDK
 
 ## Test
-To run this process is necessary locate inside the directory which containe the file **automation_migration_sdk_cli_rds_cloudsql.py** and run the following command in a terminal:
+To run the process is necessary to execute the following command in terminal, before you must locate inside the directory that contains the files (.csv, .py)
 
 ```
 automation_migration_sdk_cli_rds_cloudsql.py|sh
