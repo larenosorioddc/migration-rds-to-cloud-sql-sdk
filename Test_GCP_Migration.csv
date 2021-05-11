@@ -1,0 +1,2 @@
+TeamName,Service,k8sSecretNamespace,DBIdentifier,EndpointAddress,Port,ReplicationUsername,ReplicationPassword,ProjectId,Version,Location,StorageType,CPU,Memory,Storage,RdsId,RdsName,ClouqSqld,CloudSqlName,JobId,JobName,Tier,Type
+accounts-identity,fake,tmc-iam,gcp-migration-test-v2,poc-migration-11.cjq8ffbfbj4k.us-east-1.rds.amazonaws.com,5432,postgres,postgres,aws-rds-gcp-cloudsql,POSTGRES_11,us-east4,SSD,2,1,20,id-mds-rds,dn-mds-rds,id-mds-cloudsql,dn-mds-cloudsql,id-mds-job,dn-mds-job,db-custom-1-3840,CONTINUOUS
